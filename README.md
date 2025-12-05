@@ -7,6 +7,8 @@
   </a>
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
+
+#### Language Stats
 <!-- LANGS:START -->
 |||
 |---|---|
@@ -18,5 +20,7 @@
 | Java | [░░░░░░░░░░░░░░░░░░░░] 0.89% |
 |||
 <!-- LANGS:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!-- DATE:START -->Last Updated: December 5, 2025 at 06:53:46 PM UTC
 <!-- DATE:END -->
