@@ -1,26 +1,11 @@
-
-
-<!--
-**shringi/shringi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://github.com/shringi">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Shringi&show_icons=true&theme=transparent&hide_rank=true&layout=compact&hide_title=true" />
-</a>
-<a href="https://github.com/shringi">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shringi&show_icons=true&theme=transparent&hide_progress=false&layout=compact&hide_title=true&card_width=100" />
-</a>
--->
+<p align="left">
+  <a href="https://github.com/shringi/shringi">
+    <img src="https://komarev.com/ghpvc/?username=shringi" alt="page views" />
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shringi?style=flat&logo=github">
+  </a>
+</p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
 <!-- LANGS:START -->
 <!-- LANGS:END -->
