@@ -2,7 +2,7 @@
   <a href="https://github.com/shringi/shringi">
     <img src="https://komarev.com/ghpvc/?username=shringi" alt="page views" />
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/shringi?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/shringi?style=flat&logo=github">
   </a>
 </p>
