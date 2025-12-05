@@ -24,3 +24,11 @@
 <!--END_SECTION:activity-->
 <!-- DATE:START -->Last Updated: December 5, 2025 at 07:33:02 PM UTC
 <!-- DATE:END -->
+<details>
+<summary>View My Detailed GitHub Activity</summary>
+<a href="https://github.com/shringi"><img alt="My GitHub Activity" src="images/userstats.svg"/></a>
+  
+If you want to generate the equivalent to the above for your own GitHub profile,
+check out the <a href="https://github.com/cicirello/user-statistician">cicirello/user-statistician</a>
+GitHub Action.
+</details>
