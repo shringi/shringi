@@ -19,6 +19,6 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
-        featured-repository: Chips-n-Salsa
+        featured-repository: Lat-Long-Lab
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
