@@ -8,6 +8,15 @@
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
 <!-- LANGS:START -->
+|||
+|---|---|
+| R | [██████████████░░░░░░] 69.65% |
+| JavaScript | [███░░░░░░░░░░░░░░░░░] 14.71% |
+| HTML | [██░░░░░░░░░░░░░░░░░░] 8.08% |
+| MATLAB | [█░░░░░░░░░░░░░░░░░░░] 5.14% |
+| CSS | [░░░░░░░░░░░░░░░░░░░░] 1.54% |
+| Java | [░░░░░░░░░░░░░░░░░░░░] 0.89% |
+|||
 <!-- LANGS:END -->
-<!-- DATE:START -->
+<!-- DATE:START -->Last Updated: December 5, 2025 at 06:53:46 PM UTC
 <!-- DATE:END -->
