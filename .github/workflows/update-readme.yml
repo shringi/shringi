@@ -16,7 +16,7 @@ jobs:
       - name: Update README Language Statistics
         uses: DimaTc/readme-stats-updater@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
