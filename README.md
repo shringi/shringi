@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://github.com/shringi">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Shringi&show_icons=true&theme=transparent&hide_rank=true&layout=compact&hide_title=true" />
 </a>
 <a href="https://github.com/shringi">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shringi&show_icons=true&theme=transparent&hide_progress=false&layout=compact&hide_title=true&card_width=100" />
 </a>
-
+-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
+<!-- LANGS:START -->
+<!-- LANGS:END -->
+<!-- DATE:START -->
+<!-- DATE:END -->
