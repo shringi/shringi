@@ -12,12 +12,12 @@
 <!-- LANGS:START -->
 |||
 |---|---|
-| R | [██████████████░░░░░░] 69.65% |
-| JavaScript | [███░░░░░░░░░░░░░░░░░] 14.71% |
-| HTML | [██░░░░░░░░░░░░░░░░░░] 8.08% |
-| MATLAB | [█░░░░░░░░░░░░░░░░░░░] 5.14% |
-| CSS | [░░░░░░░░░░░░░░░░░░░░] 1.54% |
-| Java | [░░░░░░░░░░░░░░░░░░░░] 0.89% |
+| R | [█████████████░░░░░░░] 66.07% |
+| JavaScript | [███░░░░░░░░░░░░░░░░░] 15.81% |
+| HTML | [██░░░░░░░░░░░░░░░░░░] 9.99% |
+| MATLAB | [█░░░░░░░░░░░░░░░░░░░] 4.88% |
+| CSS | [░░░░░░░░░░░░░░░░░░░░] 2.41% |
+| Java | [░░░░░░░░░░░░░░░░░░░░] 0.84% |
 |||
 <!-- LANGS:END -->
 
@@ -30,5 +30,5 @@ check out the <a href="https://github.com/cicirello/user-statistician">cicirello
 GitHub Action.
 </details>
 
-<!-- DATE:START -->Last Updated: December 8, 2025 at 01:22:21 AM UTC
+<!-- DATE:START -->Last Updated: December 9, 2025 at 01:21:52 AM UTC
 <!-- DATE:END -->
