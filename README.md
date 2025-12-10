@@ -1,3 +1,6 @@
+Ankur Shringi
+
+Researcher at Indian Institute of Science, Bengaluru, India
 <p align="left">
   <a href="https://github.com/shringi/shringi">
     <img src="https://komarev.com/ghpvc/?username=shringi&style=flat" alt="page views" />
