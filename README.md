@@ -15,12 +15,12 @@ Researcher at Indian Institute of Science, Bengaluru, India
 <!-- LANGS:START -->
 |||
 |---|---|
-| R | [█████████████░░░░░░░] 64.23% |
-| JavaScript | [████░░░░░░░░░░░░░░░░] 17.70% |
-| HTML | [██░░░░░░░░░░░░░░░░░░] 10.17% |
-| MATLAB | [█░░░░░░░░░░░░░░░░░░░] 4.74% |
-| CSS | [░░░░░░░░░░░░░░░░░░░░] 2.34% |
-| Java | [░░░░░░░░░░░░░░░░░░░░] 0.82% |
+| JavaScript | [███████████████░░░░░] 75.22% |
+| R | [████░░░░░░░░░░░░░░░░] 18.46% |
+| HTML | [█░░░░░░░░░░░░░░░░░░░] 4.08% |
+| MATLAB | [░░░░░░░░░░░░░░░░░░░░] 1.36% |
+| CSS | [░░░░░░░░░░░░░░░░░░░░] 0.65% |
+| Java | [░░░░░░░░░░░░░░░░░░░░] 0.23% |
 |||
 <!-- LANGS:END -->
 
@@ -33,5 +33,5 @@ check out the <a href="https://github.com/cicirello/user-statistician">cicirello
 GitHub Action.
 </details>
 
-<!-- DATE:START -->Last Updated: January 1, 2026 at 01:43:30 AM UTC
+<!-- DATE:START -->Last Updated: January 2, 2026 at 01:26:28 AM UTC
 <!-- DATE:END -->
