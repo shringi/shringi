@@ -11,7 +11,7 @@ Researcher at Indian Institute of Science, Bengaluru, India
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
 
-#### Language Stats
+<summary>Language Stats</summary>
 <!-- LANGS:START -->
 |||
 |---|---|
