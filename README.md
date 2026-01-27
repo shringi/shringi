@@ -13,15 +13,6 @@ Researcher at Indian Institute of Science, Bengaluru, India
 <details>
 <summary>Language Stats</summary>
 <!-- LANGS:START -->
-|||
-|---|---|
-| JavaScript | [███████████████░░░░░] 75.22% |
-| R | [████░░░░░░░░░░░░░░░░] 18.46% |
-| HTML | [█░░░░░░░░░░░░░░░░░░░] 4.08% |
-| MATLAB | [░░░░░░░░░░░░░░░░░░░░] 1.36% |
-| CSS | [░░░░░░░░░░░░░░░░░░░░] 0.65% |
-| Java | [░░░░░░░░░░░░░░░░░░░░] 0.23% |
-|||
 <!-- LANGS:END -->
 </details>
 <details>
