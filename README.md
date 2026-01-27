@@ -13,6 +13,15 @@ Researcher at Indian Institute of Science, Bengaluru, India
 <details>
 <summary>Language Stats</summary>
 <!-- LANGS:START -->
+|||
+|---|---|
+| JavaScript | [███████████████░░░░░] 75.22% |
+| R | [████░░░░░░░░░░░░░░░░] 18.46% |
+| HTML | [█░░░░░░░░░░░░░░░░░░░] 4.08% |
+| MATLAB | [░░░░░░░░░░░░░░░░░░░░] 1.36% |
+| CSS | [░░░░░░░░░░░░░░░░░░░░] 0.65% |
+| Java | [░░░░░░░░░░░░░░░░░░░░] 0.23% |
+|||
 <!-- LANGS:END -->
 </details>
 <details>
@@ -24,5 +33,5 @@ check out the <a href="https://github.com/cicirello/user-statistician">cicirello
 GitHub Action.
 </details>
 
-<!-- DATE:START -->Last Updated: January 27, 2026 at 10:27:29 AM UTC
+<!-- DATE:START -->Last Updated: January 27, 2026 at 10:32:03 AM UTC
 <!-- DATE:END -->
