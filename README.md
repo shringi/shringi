@@ -10,7 +10,7 @@ Researcher at Indian Institute of Science, Bengaluru, India
   </a>
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shringi&theme=github_dark" />
-
+<details>
 <summary>Language Stats</summary>
 <!-- LANGS:START -->
 |||
@@ -23,7 +23,7 @@ Researcher at Indian Institute of Science, Bengaluru, India
 | Java | [░░░░░░░░░░░░░░░░░░░░] 0.23% |
 |||
 <!-- LANGS:END -->
-
+</details>
 <details>
 <summary>View My Detailed GitHub Activity</summary>
 <a href="https://github.com/shringi"><img alt="My GitHub Activity" src="images/userstats.svg"/></a>
